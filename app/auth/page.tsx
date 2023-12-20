@@ -17,6 +17,7 @@ export default function Auth() {
   }, []);
   console.log(variant);
 
+
   return (
     <div className="relative h-screen w-full bg-[url('/hero.jpg')] no-repeat bg-center bg-fixed bg-cover">
       <div className="bg-black w-full h-full lg:bg-opacity-50">
